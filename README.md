@@ -4,9 +4,13 @@
 - 🌱 I’m currently learning Analysis and Systems Development
 - 📫 How to reach me: contato@marciodavid.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioDavid81&show_icons=true&theme=dracula)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioDavid81&theme=dracula)](https://github.com/MarcioDavid81/github-readme-stats)
 
+<a href="https://github.com/MarcioDavid81/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcioDavid81&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/MarcioDavid81/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioDavid81&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
