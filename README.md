@@ -4,13 +4,15 @@
 - 🌱 I’m currently learning Analysis and Systems Development
 - 📫 How to reach me: contato@marciodavid.com
 
-
-<a href="https://github.com/MarcioDavid81/github-readme-stats">
+<div style="display: flex; flex-direction=row">
+  <a href="https://github.com/MarcioDavid81/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcioDavid81&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/MarcioDavid81/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioDavid81&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
+</a>  
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,10 +23,7 @@
   <img align="center" alt="Marcio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marcio-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />          
   <img align="center" alt="Marcio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img align="center" alt="Marcio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">     
-
-  
-          
+  <img align="center" alt="Marcio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
