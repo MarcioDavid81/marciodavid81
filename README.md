@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Analysis and Systems Development
 - 📫 How to reach me: contato@marciodavid.com
 
-  <a href="https://github.com/MarcioDavid81/github-readme-stats">
+<a href="https://github.com/MarcioDavid81/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcioDavid81" />
 </a>
 <a href="https://github.com/MarcioDavid81/convoychat">
