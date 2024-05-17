@@ -6,10 +6,10 @@
 
 <div style="display: flex; flex-direction: row">
   <a href="https://github.com/MarcioDavid81/github-readme-stats">
-    <img width=500 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcioDavid81&theme=dracula" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcioDavid81&theme=dracula" />
   </a>
   <a href="https://github.com/MarcioDavid81/convoychat">
-    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioDavid81&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioDavid81&layout=compact&langs_count=8&card_width=320&theme=dracula" />
   </a>  
 </div>
 
