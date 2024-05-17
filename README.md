@@ -4,13 +4,13 @@
 - 🌱 I’m currently learning Analysis and Systems Development
 - 📫 How to reach me: contato@marciodavid.com
 
-<div style="display: flex; flex-direction=row">
+<div style="display: flex; flex-direction: row">
   <a href="https://github.com/MarcioDavid81/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcioDavid81&theme=dracula" />
-</a>
-<a href="https://github.com/MarcioDavid81/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioDavid81&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>  
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcioDavid81&theme=dracula" />
+  </a>
+  <a href="https://github.com/MarcioDavid81/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioDavid81&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  </a>  
 </div>
 
 
