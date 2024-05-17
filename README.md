@@ -1,7 +1,7 @@
 <h1>Hello World! I'm Marcio David. 👋</h1>
 
--🏬🚛 I’m currently working on Agrobusiness Logistics
--🖋️🗒️ I’m currently learning Analysis and Systems Development
+-🏬🚛 I’m currently working on Agrobusiness Logistics <br>
+-🖋️🗒️ I’m currently learning Analysis and Systems Development<br>
 -📫📩 How to reach me: contato@marciodavid.com
 
 ##
