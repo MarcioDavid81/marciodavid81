@@ -4,21 +4,12 @@
 - 🌱 I’m currently learning Analysis and Systems Development
 - 📫 How to reach me: contato@marciodavid.com
 
-<div style="display: inline-block">
   <a href="https://github.com/MarcioDavid81/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcioDavid81&show_icons=true&theme=dracula" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcioDavid81&show_icons=true&theme=highcontrast" />
   </a>
   <a href="https://github.com/MarcioDavid81/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioDavid81&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-  </a>  
-</div>
-
-<a href="https://github.com/MarcioDavid81/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcioDavid81&show_icons=ture&theme=dark" />
-</a>
-<a href="https://github.com/MarcioDavid81/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioDavid81&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioDavid81&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
+  </a>
 
 
 <div style="display: inline_block"><br>
