@@ -74,3 +74,27 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/MarcioDavid81/MarcioDavid81/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcioDavid81/MarcioDavid81/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcioDavid81/MarcioDavid81/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarcioDavid81/MarcioDavid81/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img height="200" src="https://res.cloudinary.com/dgdvt1tgv/image/upload/v1748828557/doctor-avatars/mliwivi9i8q7lyg3g2mv.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MarcioDavid81/count.svg?"  />
+</div>
+
+###
