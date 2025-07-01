@@ -82,7 +82,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MarcioDavid81/count.svg?"  />
+  <img rounded="full" src="https://profile-counter.glitch.me/MarcioDavid81/count.svg?"  />
 </div>
 
 ###
